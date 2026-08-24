@@ -9,3 +9,4 @@ groq
 python-dotenv
 psycopg[binary]
 langgraph-checkpoint-postgres
+tavily-python
