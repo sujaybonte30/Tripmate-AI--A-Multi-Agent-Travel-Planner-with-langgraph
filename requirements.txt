@@ -8,3 +8,4 @@ langchain-groq
 groq
 python-dotenv
 psycopg[binary]
+langgraph-checkpoint-postgres
