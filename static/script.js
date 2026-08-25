@@ -85,7 +85,7 @@ async function sendMessage() {
 
         const data = await response.json();
 
-        if (!response.ok || !data.sucess) {
+        if (!response.ok || !data.success) {
             throw new Error(data.error || "Something went wrong.");
         }
 
